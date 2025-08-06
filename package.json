@@ -2,8 +2,8 @@
   "name": "myapp",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://www.github.com/Yamuna1230/REACT-P1.git",
-  "dependencies": {
+  "homepage": "https://yamuna1230.github.io/REACT-P1",
+   "dependencies": {
     "@testing-library/dom": "^10.4.1",
     "@testing-library/jest-dom": "^6.6.4",
     "@testing-library/react": "^16.3.0",
